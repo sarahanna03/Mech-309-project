@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Environment files
+.env
+
+# IMPORTANT: keep figures
+!figures/
+!figures/*.pdf
+!figures/*.csv
